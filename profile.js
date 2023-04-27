@@ -23,19 +23,19 @@ export const skills=[
 
 export const experiences = [
     {
-        title: 'software developer at Microsoft',
+        title: 'software developer at Microsoft (ejemplo)',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Fermentum posuere urna nec tincidunt praesent. Etiam erat velit scelerisque in. Sodales neque sodales ut etiam sit amet nisl. Pharetra convallis posuere morbi leo urna. Sed sed risus pretium quam vulputate dignissim suspendisse in. Semper risus in hendrerit gravida rutrum quisque non.',
         from: 2000,
         to: 2005,
     },
     {
-        title: 'software developer at google',
+        title: 'software developer at google (ejemplo)',
         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Fermentum posuere urna nec tincidunt praesent. Etiam erat velit scelerisque in. Sodales neque sodales ut etiam sit amet nisl. Pharetra convallis posuere morbi leo urna. Sed sed risus pretium quam vulputate dignissim suspendisse in. Semper risus in hendrerit gravida rutrum quisque non.',
         from: 2007,
         to: 2008,
     },
     {
-        title: 'software developer at SpaceX',
+        title: 'software developer at SpaceX (ejemplo)',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Fermentum posuere urna nec tincidunt praesent. Etiam erat velit scelerisque in. Sodales neque sodales ut etiam sit amet nisl. Pharetra convallis posuere morbi leo urna. Sed sed risus pretium quam vulputate dignissim suspendisse in. Semper risus in hendrerit gravida rutrum quisque non.',
         from: 20015,
     },

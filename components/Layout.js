@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
             <div className="container p-4">
                 <h1>&copy; Portafolio de Carlos Yucra </h1>
                 <p>2000 - {new Date().getFullYear()}</p>
-                <p>All right reserved</p>
+                <p>Todos los derechos reservados</p>
                 
             </div>
             

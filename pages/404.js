@@ -4,7 +4,7 @@ const custom404 = () =>
     <Layout>
         <div className="text-center">
             <h1>404</h1>
-            <p>this page doe not exists. please return to
+            <p>este error es modificable y es muestra como un ejemplo, pofavor retorna a
                 <Link legacyBehavior href="/">
                     <a>Home</a>
                 </Link>
